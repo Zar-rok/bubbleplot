@@ -43,7 +43,7 @@ The main command defined by the `bubbleplot` Latex package is `\bubbleplot`:
     x field=x,
     enlarge y limits=0.3,
     x index field=ix,
-    y field=iy,
+    y field=y,
     y index field=iy,
     year field=years,
     year x shift=-1.4cm,
